@@ -3,4 +3,5 @@
 this is very simple todo_list 
 
 used Vanila js ES5 
-HTML+ CSS + Vanilla.js 
+
+just HTML+ CSS + Vanilla.js 
